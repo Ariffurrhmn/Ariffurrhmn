@@ -8,6 +8,7 @@ I work at ProjonmoSoft and am writing conference papers alongside my degree.
 - [shelf](https://github.com/Ariffurrhmn/shelf): a personal host and gallery for my small web apps
 - [my-portfolio](https://github.com/Ariffurrhmn/my-portfolio): my portfolio site
 - [Campus-Noticeboard](https://github.com/Ariffurrhmn/Campus-Noticeboard): campus notice board web app
+- [tack](https://github.com/Ariffurrhmn/tack): a small desktop sticky-notes app in Rust, with notes that can also hold images, GIFs, and Markdown
 
 ## Contact
 - LinkedIn: [arifurrahmanswe](https://www.linkedin.com/in/arifurrahmanswe/)
