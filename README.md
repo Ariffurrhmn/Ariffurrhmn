@@ -9,7 +9,7 @@ I work at ProjonmoSoft and am writing conference papers alongside my degree.
 - [my-portfolio](https://github.com/Ariffurrhmn/my-portfolio): my portfolio site
 - [Campus-Noticeboard](https://github.com/Ariffurrhmn/Campus-Noticeboard): campus notice board web app
 - [tack](https://github.com/Ariffurrhmn/tack): a small desktop sticky-notes app in Rust, with notes that can also hold images, GIFs, and Markdown
-
+- [IMDB-Focus](https://github.com/Ariffurrhmn/Imdb-focus): A Chrome extension that stops you from going into imdb rabbit-holes
 ## Contact
 - LinkedIn: [arifurrahmanswe](https://www.linkedin.com/in/arifurrahmanswe/)
 - Email: arifur.rahman.cs04@gmail.com
