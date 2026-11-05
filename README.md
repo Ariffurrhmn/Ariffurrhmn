@@ -13,4 +13,3 @@ I work at ProjonmoSoft and am writing conference papers alongside my degree.
 ## Contact
 - LinkedIn: [arifurrahmanswe](https://www.linkedin.com/in/arifurrahmanswe/)
 - Email: arifur.rahman.cs04@gmail.com
-- [Arifur Rahman](https://arifurrahman-pi.vercel.app/)
